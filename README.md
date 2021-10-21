@@ -35,5 +35,3 @@ Import the file in this repository titled, "sample_circuit.txt" into the Circuit
 ## 📚  Resources 
 
 [Circuit Simulator](https://thumbsdb.herokuapp.com/circuit/)
-
-[Series and Parallel Circuits](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)
