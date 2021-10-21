@@ -2,7 +2,7 @@
 
 ## 🤓 Overview and learning outcomes 
 
- 🚀
+Ohm's Law is a fundamental rule of electronics.  Understanding how to apply it makes building your circuits, and robotics applications, more efficient and effective.  Through this lab you will apply Ohm's law in order to predict the interaction between voltage, current and resistance. 🚀
 
 ## Circuit Setup
 
@@ -21,7 +21,7 @@ Import the file in this repository titled, "sample_circuit.txt" into the Circuit
 1. Create a markdown file titled, "results.md".
 2. Complete the following steps and answer these questions in the results file (Show all calculations in your answers):
     - Hover over any point in the ciruit to get the voltage drop and current values for that part of the ciruit.  What is the total current (I<sub>T</sub>) for the circuit?
-    - What is total resistance for the circuit (R<sub>T</sub>)?
+    - Calculate total resistance for the circuit (R<sub>T</sub>)?
     - Based on this answer, explain what the reistance is for the LED (R<sub>LED1</sub>)?
     - Use voltage drop for the LED to confirm your answer.  Was there a difference?  If so, why did this happen?
     - Change the color of the LED.  What changed about the R<sub>T</sub> value and voltage drop for the LED?  Explain what you think happened.
