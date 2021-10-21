@@ -27,9 +27,9 @@ Import the file in this repository titled, "sample_circuit.txt" into the Circuit
     - Change the color of the LED.  What changed about the R<sub>T</sub> value and voltage drop for the LED?  Explain what you think happened.
     - Generate a random number using the [Comprehensive Version on Calculator.net](https://www.calculator.net/random-number-generator.html?clower=3.5&cupper=9.5&cnums=1&cdup=y&csort=n&cnumt=d&cprec=2&ctype=2&s=52404.5677&submit1=Generate#comprehensive).  Set it as seen here:
 
+![rand](https://user-images.githubusercontent.com/22602103/138300025-4a418ac8-6488-488e-b902-e14298d5292b.PNG)
 
-
-    - Using your random number as the current in mA, given that voltage is set to 5V. 
+   - Using your random number as the current in mA, given that voltage is set to 5V. 
 3. Commit the file to submit.
 
 ## 📚  Resources 
